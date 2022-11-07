@@ -13,3 +13,8 @@
 - 🗄 I want to learn more about SQL DB's
 - ☁️ I want to get into Cloud Computing
 - 🧑‍💻 I hope to learn about the Rapsberry PI
+## My OTHER interests
+- ♟️ Chess
+- ⚽ Soccer
+- 🔢 Math
+- 🌎 History and Geography
