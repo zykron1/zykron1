@@ -1,20 +1,25 @@
-<h1 align=center>Hello 👋 I'm Ahsan Ahmed.</h1><br>
-<p>I am 12 years old, I also created the <a href="https://github.com/MercuryFramework/mercury">Mercury</a> project.<p>
+<h1 align=center>Hello, I'm Ahsan Ahmed. 👋</h1><br>
+<p>I am 13 years old, I work with robotics 🤖, aerospace ✈️, PCB designing 🔌, and backend Python development 🐍<p>
 
-## What I've learned on my journey:
-- 🧑🏻‍💻 Moderate knowledge of HTML and CSS 
-- ✏️ **Figma**
-- 🐍 Lots of **Python** knowledge
-- ⚛️ Have used **ReactJS**
-- 🧊 Have somewhat of a knowledge about 3D rendering
-- I prefer Neovim as my primary text editor
+## Skilsheet
+
+* C/C++ language experiences 💻
+* Onshape (CAD software)
+* Bambu Studio (Slicer software)
+* Python3 🐍 (I made my own [web framework](https://github.com/MercuryFramework/mercury))
+* KiCad 🔧
+* Embedded system programming, custom ESP32-S3 PCB, ESP-IDF, Arduino 🤖, custom drivers
+* FPGA basics, somewhat fluent in Verilog and VHDL theory
+
+## Acomplishments
+
+* 10 PCBs manufactured 🔌
+* 2nd place at MakerHacks II 🥈
+* Custom 8-bit CPU core in Verilog
+* 63 Completed picoCTF challenges (penetration testing 🔐)
 
 ## What I want to learn
-- 🗄 I want to learn more about penetration testing
-- ☁️ I want to get into Cloud Computing
-- 🧑‍💻 I hope to learn about embeded systems
-## My OTHER interests
-- ♟️ Chess
-- ⚽ Soccer
-- 🔢 Math
-- 🌎 History and Geography
+
+* 🗄 I want to build a robotic actuator using a planetary gearbox
+* ☁️ I want to build more hardware projects involving rocketry
+* 🧑‍💻 I hope to continue polishing my C++ skills
