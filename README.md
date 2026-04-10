@@ -13,7 +13,7 @@
 
 ## Acomplishments
 
-* 10 PCBs manufactured 🔌
+* 15 PCBs manufactured 🔌
 * 2nd place at MakerHacks II 🥈
 * Custom 8-bit CPU core in Verilog
 * 63 Completed picoCTF challenges (penetration testing 🔐)
